@@ -1,3 +1,0 @@
-document.getElementById("form-edit"){
-    
-}
